@@ -41,3 +41,8 @@ body{
 #fotoOptionsRadius{
     border-radius: 1.25rem;
 }
+
+.containerGoogleLogo{
+    text-align: center;
+    height: 11.875rem;
+}
