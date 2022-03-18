@@ -46,3 +46,9 @@ body{
     text-align: center;
     height: 11.875rem;
 }
+
+.containerSearch{
+    height: 10rem;
+    justify-content: center;
+  
+}
