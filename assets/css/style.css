@@ -60,11 +60,11 @@ body{
     border-radius: 1.875rem;
     border:  1px solid #d8d8d8;
     width: 36.375rem;   
-    height: 35px;
+    height: 2.1875rem;
     margin-left: 28.125rem;
-    padding-top: 5px;
-    padding-left: 14px;
-    padding-right: 8px;
+    padding-top: .3125rem;
+    padding-left: .875rem;
+    padding-right: .5rem;
 }
 
 #barradepesquisa:hover{
@@ -77,15 +77,15 @@ body{
 }
 
 #butoesPequisa button{
-    height: 36px;
+    height: 2.25rem;
     text-align: center;
-    font-size: 14px;
-    border-radius: 4px;
-    margin-right: 8px;
+    font-size: .875rem;
+    border-radius: .25rem;
+    margin-right: .5rem;
     border-color: white;
     border-style: none;
-    padding-right: 16px;
-    padding-left: 16px;
+    padding-right: 1rem;
+    padding-left: 1rem;
     background-color: #F8F9FA;
 }
 
@@ -98,7 +98,7 @@ body{
 }
 
 #pesquisaIcons{
-    margin-top: 4px;
+    margin-top: .25rem;
 }
 
 #campoInput{
@@ -111,24 +111,24 @@ body{
 }
 
 #tecladoIcon{
-    margin-top: 3px;
-    margin-left: 20px;
-    padding-left: 8px;
-    padding-right: 8px;
+    margin-top: .1875rem;
+    margin-left: 1.25rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
 }
 
 #micIcon{
-    margin-top: 3px;
-    margin-left: 5px;
-    padding-left: 8px;
-    padding-right: 8px; 
+    margin-top: .1875rem;
+    margin-left: .3125rem;
+    padding-left: .5rem;
+    padding-right: .5rem; 
 }
 
 .containerLanguage{
     color: #3c4043;
     text-align: center;
-    font-size: 13px;
-    height: 194px;
+    font-size: .8125rem;
+    height: 12.125rem;
 }
 
 #languagetxt a{
@@ -180,6 +180,6 @@ footer {
 }
 
 #footer2{
-  margin-left: 740px;
+  margin-left: 46.25rem;
 }
 
