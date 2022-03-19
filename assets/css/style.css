@@ -123,3 +123,14 @@ body{
     padding-left: 8px;
     padding-right: 8px; 
 }
+
+.containerLanguage{
+    color: #3c4043;
+    text-align: center;
+    font-size: 13px;
+}
+
+#languagetxt a{
+    color: blue;
+    text-decoration: none;
+}
