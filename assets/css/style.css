@@ -128,9 +128,58 @@ body{
     color: #3c4043;
     text-align: center;
     font-size: 13px;
+    height: 194px;
 }
 
 #languagetxt a{
     color: blue;
     text-decoration: none;
 }
+
+/*Footer */
+footer {
+    background-color: #F2F2F2;
+}
+
+#brasil{
+    font-size: .875rem;
+    height: 1.0625rem;
+    padding-top: .9375rem;
+    padding-bottom: .9375rem;
+    padding-left: 1.875rem;
+    padding-right: 1.875rem;
+    color: rgb(169, 172, 174);
+    border-bottom: 0.5px solid rgb(226, 226, 226);
+
+}
+
+#footer{
+    display: flex;
+    height: 2.875rem;
+    padding-left: 1.25rem;
+}
+
+.footer{
+    display: flex;
+}
+
+#divFooterOptions{
+    font-size: .875rem;
+    padding: .9375rem;
+    color: rgb(169, 172, 174);
+}
+
+#divFooterOptions a{
+    text-decoration: none;
+    color: rgb(169, 172, 174);
+}
+
+#divFooterOptions:hover{
+    text-decoration: underline;
+    
+}
+
+#footer2{
+  margin-left: 740px;
+}
+
