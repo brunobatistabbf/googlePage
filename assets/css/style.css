@@ -48,7 +48,16 @@ body{
 }
 
 .containerSearch{
+    padding: 1.25rem;
     height: 10rem;
-    justify-content: center;
-  
+    background-color: rgb(255, 70, 70);
+}
+
+#barradepesquisa{
+    display: flex;
+    border-radius: 1.875rem;
+    border:  1px solid #b3b3b3;
+    width: 36.375rem;   
+    height: 2.75rem;
+
 }
