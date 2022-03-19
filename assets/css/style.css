@@ -60,8 +60,11 @@ body{
     border-radius: 1.875rem;
     border:  1px solid #d8d8d8;
     width: 36.375rem;   
-    height: 2.75rem;
+    height: 35px;
     margin-left: 28.125rem;
+    padding-top: 5px;
+    padding-left: 14px;
+    padding-right: 8px;
 }
 
 #barradepesquisa:hover{
@@ -92,4 +95,31 @@ body{
 
 #butoesPequisa button:hover{
   box-shadow: 0px 0px 3px 3px rgba(202, 202, 202, 0.2);
+}
+
+#pesquisaIcons{
+    margin-top: 4px;
+}
+
+#campoInput{
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    width: 27.9375rem;
+    margin-bottom: .3125rem;
+    margin-left: .3125rem;
+}
+
+#tecladoIcon{
+    margin-top: 3px;
+    margin-left: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#micIcon{
+    margin-top: 3px;
+    margin-left: 5px;
+    padding-left: 8px;
+    padding-right: 8px; 
 }
